@@ -1,0 +1,9 @@
+scipy
+numpy
+os
+sys
+sklearn
+matplotlib
+plotly 
+IPython
+ipywidgets
